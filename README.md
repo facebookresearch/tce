@@ -6,7 +6,7 @@ Test-Based Calibration Error (TCE) is a new calibration error metric based on st
 
 This repository contains sources codes for the following paper:
 
-> Matsubara T, Tax N, Mudd R, Guy I, TCE: A Test-Based Approach to Measuring Calibration Error. *The 39th Conference on Uncertainty in Artificial Intelligence*
+> [Matsubara T, Tax N, Mudd R, Guy I, TCE: A Test-Based Approach to Measuring Calibration Error.](https://proceedings.mlr.press/v216/matsubara23a.html) *Proceedings of the Thirty-Ninth Conference on Uncertainty in Artificial Intelligence*, PMLR 216:1390-1400, 2023.
 
 The Jupyter notebooks in this repository reproduce the experiments presented in the paper. Implementation of TCE and the visual representation can be found in the *calibration_metric.py* file.
 
